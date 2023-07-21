@@ -1,2 +1,5 @@
 adadada
 Applikasi 1
+Data 1 - A
+Data 2 - B
+Data 3 - C
